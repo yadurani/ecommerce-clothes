@@ -1,4 +1,5 @@
-import { ButtonNext, ButtonPrev } from '../components/Buttons';
+import React from 'react';
+import { ButtonNext, ButtonPrev } from '../components/common/Buttons';
 
 export const API_BASE = 'https://api.mercadolibre.com/sites/MCO/search';
 export const API_QUERY = '?q=';

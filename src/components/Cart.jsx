@@ -7,7 +7,7 @@ import { IoTrashSharp } from 'react-icons/io5';
 import { priceTotal, removeCart } from '../app/slice'
 import { productsSelector } from '../app/slice';
 import { formatPrice } from '../utils/helpers';
-import NotProducts from './NotProducts';
+import NotProducts from './common/NotProducts';
 
 const WrapperCart = styled.ul`
   margin: 0;

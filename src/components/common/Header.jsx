@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-import InfoSection from './InfoSection';
+import InfoSection from '../InfoSection';
 import Navbar from './Navbar';
-import SearchInput from './SearchInput';
+import SearchInput from '../SearchInput';
 
 const WrapperHeader = styled.header`
   background: white;

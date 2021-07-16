@@ -1,11 +1,11 @@
 import React, { lazy, Suspense } from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
-import Layout from './components/Layout';
-import Loading from './components/Loading';
+import Layout from './components/common/Layout';
+import Loading from './components/common/Loading';
 const Home = lazy(() => import('./pages/Home'));
 const Results = lazy(() => import('./pages/Results'));
-const Error = lazy(() => import('./components/Error'));
+const Error = lazy(() => import('./components/common/Error'));
 const Checkout = lazy(() => import('./pages/Checkout'));
 
 const Routes = () => {

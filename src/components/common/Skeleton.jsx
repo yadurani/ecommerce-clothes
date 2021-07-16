@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
-import { listEmpty } from '../utils/helpers';
+import { listEmpty } from '../../utils/helpers';
 
 const ContainerSkeleton = styled.ul`
   display: grid;

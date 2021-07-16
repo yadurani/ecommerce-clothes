@@ -2,11 +2,11 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
 
-import Error from './Error';
+import Error from './common/Error';
 import ProductItem from './ProductItem';
-import Skeleton from './Skeleton';
+import Skeleton from './common/Skeleton';
 import useSearchByCategory from '../hooks/useSearchByCategory';
-import NotProducts from './NotProducts';
+import NotProducts from './common/NotProducts';
 
 const WrapperResults = styled.div`
   display: grid;

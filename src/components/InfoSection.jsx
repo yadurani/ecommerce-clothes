@@ -2,8 +2,9 @@ import React from 'react';
 import styled from 'styled-components';
 import { IoCartOutline, IoPersonOutline } from 'react-icons/io5';
 import { connect } from 'react-redux';
-import { countSelector } from '../app/slice';
 import { Link } from 'react-router-dom';
+
+import { countSelector } from '../app/slice';
 
 const ButtonIcon = styled.button`
   background-color: transparent;
