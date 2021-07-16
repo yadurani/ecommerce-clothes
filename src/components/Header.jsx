@@ -40,7 +40,7 @@ const Header = () => {
     <WrapperHeader>
       <HeaderMain className="container">
         <Link to="/">
-          <Logo src="/images/ClothesStore.png" alt="Logo"/>
+          <Logo src="images/ClothesStore.png" alt="Logo"/>
         </Link>
         <SearchInput/>
         <InfoSection/>

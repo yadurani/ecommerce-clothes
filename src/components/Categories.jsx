@@ -42,11 +42,11 @@ const Categories = () => {
   return (
     <WrapperCategories className="container">
       <CategoryItem>
-        <ImageItem src="/images/categorias-destacadas-moda-infantil.png" alt="Moda infantil"/>
+        <ImageItem src="images/categorias-destacadas-moda-infantil.png" alt="Moda infantil"/>
         <TitleItem>Moda infantil</TitleItem>
       </CategoryItem>
       <CategoryItem>
-        <ImageItem src="/images/categorias-destacadas-proteccion.png" alt="Moda infantil"/>
+        <ImageItem src="images/categorias-destacadas-proteccion.png" alt="Moda infantil"/>
         <TitleItem>Protección</TitleItem>
       </CategoryItem>
     </WrapperCategories>

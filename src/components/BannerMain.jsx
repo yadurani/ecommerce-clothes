@@ -13,7 +13,7 @@ const ImgBanner = styled.img`
 const BannerMain = () => {
   return (
     <WrapperMain>
-      <ImgBanner src="/images/banner-principal-desktop.png" alt="Banner principal"/>
+      <ImgBanner src="images/banner-principal-desktop.png" alt="Banner principal"/>
     </WrapperMain>
   )
 }

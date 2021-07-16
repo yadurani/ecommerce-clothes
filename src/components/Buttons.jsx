@@ -18,7 +18,7 @@ export const ButtonNext = ({ currentSlide, slideCount, ...props }) => {
       aria-disabled={currentSlide === slideCount - 1 ? true : false}
       type="button"
     >
-      <img src="/images/arrowRight.png" alt="Arrow Right" height="50"/>
+      <img src="images/arrowRight.png" alt="Arrow Right" height="50"/>
     </Button>
   )
 }
@@ -35,7 +35,7 @@ export const ButtonPrev = ({ currentSlide, slideCount, ...props }) => {
       aria-disabled={currentSlide === 0 ? true : false}
       type="button"
     >
-      <img src="/images/arrowLeft.png" alt="Arrow Right" height="50"/>
+      <img src="images/arrowLeft.png" alt="Arrow Right" height="50"/>
     </Button>
   )
 }
