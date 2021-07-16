@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.501803ec.chunk.js": "/ecommerce-clothes/static/js/0.501803ec.chunk.js",
+    "static/js/0.501803ec.chunk.js.map": "/ecommerce-clothes/static/js/0.501803ec.chunk.js.map",
+    "main.css": "/ecommerce-clothes/static/css/main.8548a1dd.chunk.css",
+    "main.js": "/ecommerce-clothes/static/js/main.4cd6938a.chunk.js",
+    "main.js.map": "/ecommerce-clothes/static/js/main.4cd6938a.chunk.js.map",
+    "runtime-main.js": "/ecommerce-clothes/static/js/runtime-main.1069f95f.js",
+    "runtime-main.js.map": "/ecommerce-clothes/static/js/runtime-main.1069f95f.js.map",
+    "static/js/3.cbd77d27.chunk.js": "/ecommerce-clothes/static/js/3.cbd77d27.chunk.js",
+    "static/js/3.cbd77d27.chunk.js.map": "/ecommerce-clothes/static/js/3.cbd77d27.chunk.js.map",
+    "static/js/4.aeb02211.chunk.js": "/ecommerce-clothes/static/js/4.aeb02211.chunk.js",
+    "static/js/4.aeb02211.chunk.js.map": "/ecommerce-clothes/static/js/4.aeb02211.chunk.js.map",
+    "static/js/5.442fe9b2.chunk.js": "/ecommerce-clothes/static/js/5.442fe9b2.chunk.js",
+    "static/js/5.442fe9b2.chunk.js.map": "/ecommerce-clothes/static/js/5.442fe9b2.chunk.js.map",
+    "static/js/6.c51e8dcd.chunk.js": "/ecommerce-clothes/static/js/6.c51e8dcd.chunk.js",
+    "static/js/6.c51e8dcd.chunk.js.map": "/ecommerce-clothes/static/js/6.c51e8dcd.chunk.js.map",
+    "static/js/7.281764e6.chunk.js": "/ecommerce-clothes/static/js/7.281764e6.chunk.js",
+    "static/js/7.281764e6.chunk.js.map": "/ecommerce-clothes/static/js/7.281764e6.chunk.js.map",
+    "static/js/8.a11db521.chunk.js": "/ecommerce-clothes/static/js/8.a11db521.chunk.js",
+    "static/js/8.a11db521.chunk.js.map": "/ecommerce-clothes/static/js/8.a11db521.chunk.js.map",
+    "index.html": "/ecommerce-clothes/index.html",
+    "static/css/main.8548a1dd.chunk.css.map": "/ecommerce-clothes/static/css/main.8548a1dd.chunk.css.map",
+    "static/js/3.cbd77d27.chunk.js.LICENSE.txt": "/ecommerce-clothes/static/js/3.cbd77d27.chunk.js.LICENSE.txt",
+    "static/js/4.aeb02211.chunk.js.LICENSE.txt": "/ecommerce-clothes/static/js/4.aeb02211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1069f95f.js",
+    "static/js/3.cbd77d27.chunk.js",
+    "static/css/main.8548a1dd.chunk.css",
+    "static/js/main.4cd6938a.chunk.js"
+  ]
+}
